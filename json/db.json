@@ -35,5 +35,7 @@
             
         ]
     },
-	"status":"normal"
+	"status":"normal",
+	"verson":"0.0.1",
+	"company":"XC"
 }
